@@ -44,9 +44,9 @@ padding: 0;
     opacity: 0.5;
 }
 .Weather .city-name {
-margin-left: 50px;
+margin-left: 40px;
 }
 .Weather form {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
