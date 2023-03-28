@@ -33,7 +33,7 @@ export default function Weather(props) {
                 </div>
             </form>
             <div className="city-name">
-                <h1>Odesa</h1>
+                <h1>{weatherData.city}</h1>
             <ul>
                 <li>Last updated: {weatherData.date}</li>
                     <li className="text-capitalize">{weatherData.description}</li>
