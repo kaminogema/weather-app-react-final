@@ -7,3 +7,11 @@
     max-width: 500px;
     color: white;
 }
+.Weather .btn-primary {
+    background-color: #A970FF;
+    border-color: #A970FF;
+}
+.Weather .btn-primary:hover {
+    background-color: #A970FF;
+    border-color:white;
+}
