@@ -4,7 +4,15 @@
   font-family:'Ubuntu', sans-serif;
 }
 .App footer {
-  font-size: 11px;
-  margin: 10px 0;
+  font-size: 12px;
+  margin: 0;
   text-align: center;
+}
+.App footer a {
+  color: #545BA3;
+}
+@media (max-width:450px) {
+  .App footer {
+    font-size: 10px;
+  }
 }
