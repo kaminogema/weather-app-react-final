@@ -3,3 +3,9 @@
     top: -29px;
     opacity: 0.5;
 }
+@media (max-width:450px){
+   .WeatherTemperature .unit {
+    font-size: 14px;
+    top: -24px;
+   } 
+}

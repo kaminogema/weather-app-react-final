@@ -36,4 +36,7 @@ padding: 0;
 .WeatherInfo li {
     font-size: 14px;
 }
+.WeatherInfo h1 {
+    font-size: 23px;
+}
 }
