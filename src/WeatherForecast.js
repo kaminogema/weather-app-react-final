@@ -35,7 +35,6 @@ export default function WeatherForecast(props) {
             </div>
         );
     } else {
-        console.log(`${process.env.REACT_APP_MY_KEY}`);
     let apiKey = process.env.REACT_APP_MY_KEY;
     let longtitude = props.coordinates.lon;
     let latitude = props.coordinates.lat;
